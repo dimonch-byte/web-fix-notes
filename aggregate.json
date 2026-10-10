@@ -1,0 +1,20 @@
+{
+ "list": "Tranco top-1M (tranco-list.eu), first 1500 domains",
+ "date": "2026-10-10",
+ "html_homepages": 835,
+ "pct": {
+  "og_image": 64.0,
+  "og_image_relative": 3.1,
+  "og_image_dims": 20.5,
+  "twitter_card": 54.4,
+  "icon": 86.7,
+  "apple_touch": 56.6,
+  "manifest": 30.8,
+  "hsts": 67.2,
+  "nosniff": 52.3,
+  "refpol": 29.1,
+  "csp": 46.7,
+  "csp_ro": 7.1,
+  "permpol": 15.2
+ }
+}
